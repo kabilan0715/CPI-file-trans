@@ -1,6 +1,6 @@
 FirstName,DOB,Address,Phone,Email,Gender,Dept,Salary,JoiningDate,Company
-Arjun Mehta,10.10.1990,"101, Residency Road, Pune",9871234567,arjun.mehta@techmail.com,Male,"Operations",47000.00,12.02.2023,"LogiCore, Pune"
-Meera Nair,05.06.1996,"88, Lake View Avenue, Kochi",9123456780,meera.nair@bizworld.com,Female,"Customer Support",39000.00,18.08.2024,"ServEdge, Kochi"
-Karan Singh,22.03.1994,"55, Civil Lines, Jaipur",9988123456,karan.singh@devhub.com,Male,"Engineering",62000.00,03.11.2022,"BuildRight, Jaipur"
-Ananya Joshi,19.09.1997,"33, Salt Lake Sector V, Kolkata",9345671234,ananya.joshi@designs.com,Female,"UI/UX",51000.00,27.05.2023,"PixelNest, Kolkata"
-Tanya Kapoor,25.04.1995,"77, Linking Road, Mumbai",9876540987,tanya.kapoor@mediahub.com,Female,"Content",45000.00,14.06.2024,"StoryLine, Mumbai"
+Arjun Mehta,10.10.1990,"101, Residency Road, Pune",9871234567,arjun.mehta@techmail.com,Male,"IT - Operations",47000.00,12.02.2023,"LogiCore, Pune"
+Meera Nair,05.06.1996,"88, Lake View Avenue, Kochi",9123456780,meera.nair@bizworld.com,Female,"IT-Customer Support",39000.00,18.08.2024,"ServEdge, Kochi"
+Karan Singh,22.03.1994,"55, Civil Lines, Jaipur",9988123456,karan.singh@devhub.com,Male,"Engineering",62000.00,03.11.2022,"IT-BuildRight, Jaipur"
+Ananya Joshi,19.09.1997,"33, Salt Lake Sector V, Kolkata",9345671234,ananya.joshi@designs.com,Female,"IT-UI/UX",51000.00,27.05.2023,"PixelNest, Kolkata"
+Tanya Kapoor,25.04.1995,"77, Linking Road, Mumbai",9876540987,tanya.kapoor@mediahub.com,Female,"IT-Content",45000.00,14.06.2024,"StoryLine, Mumbai"
